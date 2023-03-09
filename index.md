@@ -21,7 +21,7 @@ In Progress
 
 ## RSL III
 In Progress
-[View On GitHub](https://github.com/frostiestudios/RSLIII)
+[View On GitHub](https://github.com/frostiestudios/RSL-III)
 
 ## CSL DB
 [View On GitHub](https://github.com/frostiestudios/CSLDB)
