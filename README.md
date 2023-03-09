@@ -2,11 +2,5 @@
 
 ## Welcome
 [View]("https://frostiestudios.github.io")
-
-
-Projects
-
-| Project Name | Project Status | Link
-|---|----|-|
-|
+Click on this link to view the full website if the GitHub action works
 
