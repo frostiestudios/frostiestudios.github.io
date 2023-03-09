@@ -2,10 +2,11 @@
 Welcome To the official frostie studios website
 
 ## Products
-| Name | Link | Status |
+
+|Name|Link|Status|
 |-|-|-|
-|RSL| See Below|In Progress|
-|CSLDB| See Below|In Progress|
+|RSL|See Below|In Progress|
+|CSLDB|See Below|In Progress|
 
 ### RSL III
 **_Somewhat Working_**
