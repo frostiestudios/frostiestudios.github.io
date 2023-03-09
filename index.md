@@ -25,5 +25,4 @@ In Progress
 
 ## CSL DB
 [View On GitHub](https://github.com/frostiestudios/CSLDB)
-#Cities #citieskylines
 Cities Skylines City Manager
